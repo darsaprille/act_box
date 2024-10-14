@@ -1,0 +1,33 @@
+.div-container{
+    background-color: teal;
+    width: 250px;
+    
+    
+  }
+  .class-div1{
+      padding: 20px;
+      border: 5px solid black ;
+      margin: auto;
+  }
+ 
+.class-div2{
+
+    background-color:yellow;
+    padding: 20px;
+    border: solid black;
+    border-width: 20px 10px;
+    height: 150px;
+    width: 150px;
+    margin: auto;
+    margin-left: 250px;
+}
+
+.class-div3{
+    background-color:red;
+    padding: 20px;
+    border: 5px solid black;
+    height: 150px;
+    width: 150px;
+    margin: auto;
+    margin-left: 50px;
+}
